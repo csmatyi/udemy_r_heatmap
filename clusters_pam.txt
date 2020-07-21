@@ -1,0 +1,28 @@
+Acinonyx jubatus	1
+Canis lupus dingo	2
+Canis lupus familiaris	2
+Equus asinus	3
+Equus caballus	3
+Equus przewalskii	3
+Felis catus	1
+Felis nigripes	1
+Homo sapiens	4
+Lycaon pictus	2
+Lynx canadensis	1
+Lynx pardinus	1
+Mus musculus	5
+Myotis lucifugus	6
+Panthera leo	1
+Panthera onca	1
+Panthera pardus	1
+Panthera tigris	1
+Pipistrellus pipistrellus	6
+Prionailurus bengalensis euptilurus	1
+Pteropus alecto	7
+Pteropus vampyrus	7
+Puma concolor	1
+Rattus norvegicus	5
+Rhinolophus ferrumequinum	7
+Rousettus aegyptiacus	7
+Vulpes lagopus	2
+Vulpes vulpes	2
